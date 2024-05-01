@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loginform{
+    border: 1px solid rgb(148, 140, 140);
+    width: 26%;
+    text-align: center;
+    height: 59vh;
+    margin: auto;
+    margin-top: 2%;
+}
+.logo{
+    width: 26%;
+    margin: auto;
+    border: 1px solid rgb(148, 140, 140);
+    margin-top: 1%;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    margin-top: 15%;
+}
+#email{
+    margin-top: 10%;
+    height: 6vh;
+    width: 70%;
+    font-size: 12px;
+    padding: 3%;
+}
+#password{
+    height: 6vh;
+    width: 70%;
+    margin-top: 2%;
+    padding: 3%;
+}
+button{
+    height: 5vh;
+    width: 70%;
+    margin-top: 5%;
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+p{
+    margin: 5%;
+    font-size: 13px;
+}
+.for{
+    font-size: 14px;
+}
+.end{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    margin-top: 15%;
+}
+.hat{
+    display: inline-block;
+    width: 33%;
+    margin: 1.5%;
+}
+.face{
+    margin-top: 7px;
+    color: navy;
+    font-weight: bold;
+}
+.pass{
+    color: rgb(43, 41, 41);
+}
+.signs{
+    color: rgb(15, 138, 179);
+    font-weight: bold;
+    margin: 2%;
+}
+
+.hass{
+    display: inline-block;
+}
+.picture{
+    width: 13%;
+    margin-left: 37.5%;
+    margin-top: 2%;
+}
+.pictures{
+    width: 11%;
+}
+.head{
+    margin-top: 2%;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(58, 46, 46);
+}
